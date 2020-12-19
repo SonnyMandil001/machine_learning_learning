@@ -1,0 +1,2 @@
+$ source mll/bin/activate			<-- starts venv 
+$ deactivate  						<-- stops venv  
